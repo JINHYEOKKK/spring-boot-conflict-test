@@ -10,6 +10,6 @@ public class CoffeeController {
 
     @GetMapping
     public String coffee() {
-        return "Hello Coffee World";
+        return "Hello Coffee";
     }
 }
